@@ -2,6 +2,8 @@
 
 Budget buddy will help you keep track of your expenses, and help you spend your money more wisely. 
 
+https://fdddgroup.herokuapp.com/
+
 <br>
 
 <h1>Technologies</h1>
